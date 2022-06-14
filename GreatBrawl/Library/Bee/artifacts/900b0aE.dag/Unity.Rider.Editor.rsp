@@ -412,7 +412,7 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Serialization.dll"
--r:"/Users/nikolai_kozevnikov/Documents/GreatBrawl/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/Users/nikolai_kozevnikov/Documents/GreatBrawl/GreatBrawl/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/900b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/900b0aE.dag/UnityEngine.TestRunner.ref.dll"
