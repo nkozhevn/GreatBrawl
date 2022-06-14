@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MobileTestProject
+namespace GreatBrawl
 {
     public class SpawnZone : MonoBehaviour
     {

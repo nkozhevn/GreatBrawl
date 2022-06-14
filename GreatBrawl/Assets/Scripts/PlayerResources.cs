@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-namespace MobileTestProject
+namespace GreatBrawl
 {
     public class PlayerResources : MonoBehaviour
     {

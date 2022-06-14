@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MobileTestProject
+namespace GreatBrawl
 {
     public class SpawnButton : MonoBehaviour
     {

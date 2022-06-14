@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-namespace MobileTestProject
+namespace GreatBrawl
 {
     public class Controllable : MonoBehaviour
     {
